@@ -8,7 +8,7 @@ Since the start of the COVID-19 pandemic, more than 2 million people have died f
 Sentiment analysis of tweets related to the coronavirus can provide valuable insights into public opinion and perception of the virus. It can be used to track changes in sentiment over time, identify influential users and groups, and identify specific issues or concerns related to the virus. However, it is important to note that sentiment analysis is not a straightforward task and results may vary depending on the dataset, pre-processing and modeling used. Sentiment analysis of tweets can be challenging due to informal language, use of slang and emoticons, and the presence of sarcasm and irony.
 In this project we have data related to covid-19 tweets, where we have done exploratory data analysis, applied multiple text preproicessing techniques, vectorisation of textual data and we have also handled the imbalance in our dataset. And finally we build multiple machine learning models, where Support Vector Classifier was the best model because it gives the highest accuracy on test data as compared to other models. 
 
-                                                   Some of the key insights found from this project are as follows👇🏻-:
+                                                Some of the key insights found from this project are as follows👇🏻-:
 
 * Most of the tweets found were in March and April 2020, as the first wave of covid spread widely around the world and many countries declared lockdowns.
 
